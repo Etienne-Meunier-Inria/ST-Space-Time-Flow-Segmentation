@@ -1,0 +1,4 @@
+PerturbInputFlowNoise:
+    created: 18-10-22
+    available: True
+    description: Perturb the network input by randomly replacing one of the output by noise.
